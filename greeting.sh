@@ -1,11 +1,3 @@
-#!/bin/bash
-
-cd /workspace/
-
-set -eo pipefail
-
-apt install figlet 
-
 # possible greetings
 GREETINGS=("Hello!" "Prithee tell, what is poppin?" "Hail, and well met" "Buongiorno")
 
