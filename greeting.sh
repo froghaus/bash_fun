@@ -4,8 +4,6 @@ cd /workspace/
 
 set -eo pipefail
 
-/venv/main/bin/activate
-
 apt install figlet 
 
 # possible greetings
